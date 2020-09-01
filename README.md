@@ -1,2 +1,2 @@
 # Projet-Survey
- Réalisaiton questionnaire exemple pour certification Front-End FreeCodeCamp
+ Réalisaiton questionnaire exemple pour training FreeCodeCamp
